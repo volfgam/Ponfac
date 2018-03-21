@@ -1,0 +1,10 @@
+C:\Users\Enton\Documents\Visual Studio 2017\Projects\Ponfac3\Ponfac3\bin\Debug\Ponfac3.exe.config
+C:\Users\Enton\Documents\Visual Studio 2017\Projects\Ponfac3\Ponfac3\bin\Debug\Ponfac3.exe
+C:\Users\Enton\Documents\Visual Studio 2017\Projects\Ponfac3\Ponfac3\bin\Debug\Ponfac3.pdb
+C:\Users\Enton\Documents\Visual Studio 2017\Projects\Ponfac3\Ponfac3\obj\Debug\Ponfac3.csprojResolveAssemblyReference.cache
+C:\Users\Enton\Documents\Visual Studio 2017\Projects\Ponfac3\Ponfac3\obj\Debug\Ponfac3.Form1.resources
+C:\Users\Enton\Documents\Visual Studio 2017\Projects\Ponfac3\Ponfac3\obj\Debug\Ponfac3.Properties.Resources.resources
+C:\Users\Enton\Documents\Visual Studio 2017\Projects\Ponfac3\Ponfac3\obj\Debug\Ponfac3.csproj.GenerateResource.cache
+C:\Users\Enton\Documents\Visual Studio 2017\Projects\Ponfac3\Ponfac3\obj\Debug\Ponfac3.csproj.CoreCompileInputs.cache
+C:\Users\Enton\Documents\Visual Studio 2017\Projects\Ponfac3\Ponfac3\obj\Debug\Ponfac3.exe
+C:\Users\Enton\Documents\Visual Studio 2017\Projects\Ponfac3\Ponfac3\obj\Debug\Ponfac3.pdb
